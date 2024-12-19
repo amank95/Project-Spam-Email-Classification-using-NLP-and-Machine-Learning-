@@ -1,5 +1,5 @@
 # Project-Spam-Email-Classification-using-NLP-and-Machine-Learning-
-<h1> Email Spam Classification Application</h1>
+<h1>Spam Email Classification Application</h1>
 
 <p> This project is a **Machine Learning-based web application** that classifies emails as either spam or ham (not spam). The app is built using **Streamlit** for the frontend interface and a trained **Naive Bayes classifier** for the backend prediction model.
 </p>
