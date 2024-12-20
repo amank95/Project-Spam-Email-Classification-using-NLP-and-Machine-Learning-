@@ -78,9 +78,6 @@ pip install numpy
 pip install nltk
 pip install streamlit
 
-OR Try the below:
-pip install -r requirements.txt
-
 ```
 
 ### 2. Run the Streamlit Application
