@@ -106,9 +106,10 @@ Open the URL displayed in your terminal (default: `http://localhost:8501`) to ac
 ## Files Included
 
 - `spam.csv`: Dataset file used for training and testing.
-- `app.py`: Python script containing the Streamlit app code.
+- `spamDetector.py`: Python script containing the Streamlit app code.
 - `spam123.pkl`: Serialized Naive Bayes model.
 - `vec123.pkl`: Serialized CountVectorizer object.
+- `spam.ipynb` : Jupyter Notebook used for exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 
 ---
 
