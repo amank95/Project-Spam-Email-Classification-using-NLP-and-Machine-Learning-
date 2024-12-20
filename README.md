@@ -109,7 +109,6 @@ Open the URL displayed in your terminal (default: `http://localhost:8501`) to ac
 - `app.py`: Python script containing the Streamlit app code.
 - `spam123.pkl`: Serialized Naive Bayes model.
 - `vec123.pkl`: Serialized CountVectorizer object.
-- `requirements.txt`: List of dependencies required to run the application.
 
 ---
 
