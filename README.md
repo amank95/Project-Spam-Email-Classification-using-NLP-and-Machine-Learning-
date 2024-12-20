@@ -3,7 +3,7 @@
 
 <p> This project is a <b>Machine Learning-based web application</b> that classifies emails as either spam or ham (not spam). The app is built using <b>Streamlit</b> for the frontend interface and a trained <b>Naive Bayes classifier</b> for the backend prediction model.
 </p>
----
+
 
 ## Features
 
